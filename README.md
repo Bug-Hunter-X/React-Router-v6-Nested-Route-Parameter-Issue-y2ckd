@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router v6 where nested route parameters are not passed correctly to child components. The bug occurs when using nested routes with parameters. The solution involves using the `useParams` hook within the nested components to correctly access the parameters.  This example showcases the problem and a working solution.
